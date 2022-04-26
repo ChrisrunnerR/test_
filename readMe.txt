@@ -1,0 +1,7 @@
+GIT: AS SOON AS you initialize a folder as a GitHub repository anything inside of it is going to 
+be tracked by git, meaning you can add files and use git commands within this folder
+
+Initialize a new git repository: 				git init 
+If you want file/changes to NEXT commit:  			git add readMe.txt 
+If you want to check what you have just done: 		git status
+After you have staged you can commit with:			git commit -m "short desc. Of changes"
