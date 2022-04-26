@@ -6,5 +6,7 @@ If you want file/changes to NEXT commit:  			git add readMe.txt
 If you want to check what you have just done: 		git status
 After you have staged you can commit with:			git commit -m "short desc. Of changes"
 If you want to add everything in the repository:		git commit .
-Want to create another branch copies current branch: 	git checkout -b newBranchName 	
+Want to create another branch copies current branch: 	git checkout -b newBranchName
+Switch back to master branch 				git checkout master
+ 	
 	
