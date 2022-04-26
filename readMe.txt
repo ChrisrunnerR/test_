@@ -13,6 +13,13 @@ Add remote to repository example to push/pull update:	git remote add origin http
 Above says you're adding a remote repository called ORIGIN that has that url. 
 
 Push all of our commits to the remote origin repository	git push -u origin master
+Get changes from remote repository:			git pull origin master
+//end of notes for now
+
+
+
+
+
 
 
 Allow us to attach an email/username to access reposity both of these steps should only be like 1 time ( for push/ pulling remote repository )
